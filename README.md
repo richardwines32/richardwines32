@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Amazon Web Services</b>
+  - [Configuring AWS Security Groups](https://github.com/joshmadakorcc/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
