@@ -6,8 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/richardwines32/activedirectory)
   - [DNS Configuration](https://github.com/richardwines32/DNS)
   - [Network File Shares and Permsissions](https://github.com/richardwines32/Network_File_Shares_and_Permissions)
-- <b>Amazon Web Services</b>
-  - [Observing AWS Security Groups](https://github.com/joshmadakorcc/configure-ad)
+  
 
 <h2>🤳Connect with me:</h2>
 
