@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/richardwines32/activedirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [DNS Configuration](https://github.com/richardwines32/DNS)
 - <b>Amazon Web Services</b>
   - [Observing AWS Security Groups](https://github.com/joshmadakorcc/configure-ad)
 
