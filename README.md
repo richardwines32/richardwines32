@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/richardwines32/activedirectory)
   - [DNS Configuration](https://github.com/richardwines32/DNS)
   - [Network File Shares and Permsissions](https://github.com/richardwines32/Network_File_Shares_and_Permissions)
-  
+  - [Azure Compute and Networking](https://github.com/richardwines32/azure_compute_and_networking)
 
 <h2>🤳Connect with me:</h2>
 
